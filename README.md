@@ -2,6 +2,7 @@
 Demonstration of Dijkstra's Shortest Path Algorithm on an image with restraints
 
 This program is meant to run with the included image, and it usually runs ~10 seconds (with the provided restraints and ppm), depending on your machine.
+It creates a visual for the shortest path found using Dijkstra's Algorithm in an orange color. 
 
 It is meant to practice maximizing the running time as much as possible. The program features Dijkstra's Algorithm, bit shifting, and many other thoughtful "workarounds" to speed processes up.<br>
 A config file is required alongside an image to create a path. I have included a sample config.txt and railway.ppm file for use.
